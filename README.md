@@ -1,3 +1,5 @@
+<img src="https://komarev.com/ghpvc/?username=nathiellelopesh&color=yellow" alt="Profile views" />
+
 ## Hey There, Welcome to my Github Profile. 👋
 ### My name is Nathielle
 <br/>
