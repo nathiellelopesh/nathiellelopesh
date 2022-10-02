@@ -1,10 +1,8 @@
 ## Hey There, Welcome to my Github Profile. 👋
-### My name is Nathielle
+### My name is Nathielle,
 <br/>
 
-💻 I’m an Engineer and a Front-End Developer
-
-⚡ I’m currently working as front-end freelancer, and studying to be a FullStack Developer
+💻 I’m a Full-Stack Developer and Engineer.
 
 📩 Email: nathieleharka@hotmail.com
 
@@ -31,17 +29,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60"/>
-</div>
-
-<br/>
-
-## Learning
-
-<br/>
-
-<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60"/>    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60"/>
 </div>
 
 <br/>
